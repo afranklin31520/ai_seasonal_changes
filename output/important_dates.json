@@ -1,0 +1,245 @@
+[
+    {
+        "file_name": "arXiv:2104.12871v2",
+        "date": "1984-01-01",
+        "event_type": "AI Winter",
+        "event_description": "Drew McDermott warns about the cyclical pattern of over-optimism followed by disappointment in AI.",
+        "impact_score": 4,
+        "outcome_classification": "public perception shift",
+        "significance_today": "This warning reflects the ongoing challenges in the AI field, emphasizing the need for realistic expectations and understanding of AI capabilities."
+    },
+    {
+        "file_name": "arXiv:2104.12871v2",
+        "date": "1969-01-01",
+        "event_type": "AI Winter",
+        "event_description": "Publication of Minsky and Papert's book 'Perceptrons' highlighting the limitations of early neural networks.",
+        "impact_score": 5,
+        "outcome_classification": "funding cuts",
+        "significance_today": "This event marked a significant downturn in AI funding and interest, influencing the direction of AI research for decades."
+    },
+    {
+        "file_name": "arXiv:2104.12871v2",
+        "date": "1973-01-01",
+        "event_type": "AI Winter",
+        "event_description": "The Lighthill report in the UK and a similar report by the US Department of Defense provide negative assessments of AI prospects.",
+        "impact_score": 5,
+        "outcome_classification": "funding cuts",
+        "significance_today": "These reports led to significant decreases in funding and enthusiasm for AI, shaping the trajectory of AI research and development."
+    },
+    {
+        "file_name": "arXiv:2104.12871v2",
+        "date": "1990-01-01",
+        "event_type": "AI Winter",
+        "event_description": "The late 1980s marked the beginning of a new AI winter as technologies failed to meet expectations.",
+        "impact_score": 4,
+        "outcome_classification": "public perception shift",
+        "significance_today": "This period reinforced skepticism about AI capabilities, affecting investment and research focus for years to come."
+    },
+    {
+        "file_name": "arXiv:2104.12871v2",
+        "date": "2010-01-01",
+        "event_type": "AI Spring",
+        "event_description": "Deep learning rises to prominence, leading to renewed optimism in AI capabilities.",
+        "impact_score": 5,
+        "outcome_classification": "funding boost",
+        "significance_today": "The resurgence of deep learning has driven significant advancements in AI, influencing a wide range of applications and industries."
+    },
+    {
+        "file_name": "arXiv:2104.12871v2",
+        "date": "2016-01-01",
+        "event_type": "AI Spring",
+        "event_description": "Surveys indicate a median prediction among AI researchers that human-level AI could be achieved by 2040-2060.",
+        "impact_score": 3,
+        "outcome_classification": "public perception shift",
+        "significance_today": "This optimism reflects the ongoing belief in the potential for breakthroughs in AI, influencing funding and research agendas."
+    },
+    {
+        "file_name": "The 6-Ds of Creating AI-Enabled Systems",
+        "date": "2012-01-01",
+        "event_type": "AI Spring",
+        "event_description": "Geoffrey Hinton's team advanced the field of computer vision using convolutional neural networks during the ImageNet competition.",
+        "impact_score": 5,
+        "outcome_classification": "breakthrough technology",
+        "significance_today": "This event marked a significant advancement in deep learning and computer vision, laying the groundwork for many modern AI applications and the ongoing AI spring."
+    },
+    {
+        "file_name": "The 6-Ds of Creating AI-Enabled Systems",
+        "date": "2016-01-01",
+        "event_type": "another AI-related event",
+        "event_description": "The design of the Precision Medicine Analytical Platform (PMAP) commenced.",
+        "impact_score": 4,
+        "outcome_classification": "funding boost",
+        "significance_today": "The PMAP represents the application of AI in precision medicine, showcasing the integration of AI technologies in healthcare, which continues to evolve today."
+    },
+    {
+        "file_name": "Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications",
+        "date": "2022-07-01",
+        "event_type": "another AI-related event",
+        "event_description": "Workshop convened by CSET and Stanford Cyber Policy Center to discuss AI vulnerabilities and cybersecurity.",
+        "impact_score": 4,
+        "outcome_classification": "knowledge sharing",
+        "significance_today": "The workshop's discussions contribute to ongoing efforts to enhance AI security and vulnerability management, which are critical as AI technologies become more integrated into various sectors."
+    },
+    {
+        "file_name": "Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications",
+        "date": "2022-05-01",
+        "event_type": "another AI-related event",
+        "event_description": "Testimony by Andrew Moore before the U.S. Senate Committee on Armed Services regarding AI system vulnerabilities.",
+        "impact_score": 5,
+        "outcome_classification": "policy influence",
+        "significance_today": "Highlights the urgency of addressing AI vulnerabilities, influencing legislative and regulatory discussions on AI security and governance."
+    },
+    {
+        "file_name": "Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications",
+        "date": "2023-01-23",
+        "event_type": "another AI-related event",
+        "event_description": "Release of draft 1.0 of the National Institute of Standards and Technology's Artificial Intelligence Risk Management Framework.",
+        "impact_score": 4,
+        "outcome_classification": "regulatory change",
+        "significance_today": "Establishes a foundational framework for managing AI risks, promoting security practices in AI development and deployment."
+    },
+    {
+        "file_name": "Concept-Guided LLM Agents for Human-AI Safety Codesign",
+        "date": "2023-02-01",
+        "event_type": "another AI-related event",
+        "event_description": "OpenAI's ChatGPT sets a record for the fastest growing user base of all times.",
+        "impact_score": 5,
+        "outcome_classification": "public perception shift",
+        "significance_today": "This event highlights the rapid adoption and integration of generative AI technologies in everyday applications, influencing current AI development and user engagement."
+    },
+    {
+        "file_name": "Integrating AI in College Education",
+        "date": "2023-11-06",
+        "event_type": "another AI-related event",
+        "event_description": "Launch of ChatGPT-4 Turbo, an advanced AI model that enhances the capabilities of its predecessors by integrating text, code, and image data.",
+        "impact_score": 5,
+        "outcome_classification": "breakthrough technology",
+        "significance_today": "The launch of ChatGPT-4 Turbo marks a significant advancement in AI technology, influencing educational practices and the integration of AI in various fields, leading to enhanced learning experiences and personalized education."
+    },
+    {
+        "file_name": "Integrating AI in College Education",
+        "date": "2024-01-01",
+        "event_type": "another AI-related event",
+        "event_description": "Integration of ChatGPT-based teaching application into undergraduate medical imaging course.",
+        "impact_score": 4,
+        "outcome_classification": "educational innovation",
+        "significance_today": "The integration of AI chatbots in education represents a shift towards more interactive and personalized learning environments, showcasing the potential for AI to enhance student engagement and learning outcomes."
+    },
+    {
+        "file_name": "AI_Article",
+        "date": "2020-03-23",
+        "event_type": "another AI-related event",
+        "event_description": "AAAI 2020 Spring Symposium on Combining Machine Learning and Knowledge Engineering in Practice.",
+        "impact_score": 3,
+        "outcome_classification": "academic conference",
+        "significance_today": "The symposium highlights the ongoing integration of machine learning and knowledge engineering, which continues to influence AI research and applications."
+    },
+    {
+        "file_name": "AI_Article",
+        "date": "2017-05-25",
+        "event_type": "another AI-related event",
+        "event_description": "The European Union implemented the rule of 'right of explanation' for algorithmic decisions.",
+        "impact_score": 4,
+        "outcome_classification": "regulatory change",
+        "significance_today": "This regulation has shaped discussions around AI ethics and accountability, impacting how AI systems are developed and deployed in Europe."
+    },
+    {
+        "file_name": "AI_Article",
+        "date": "2019-01-01",
+        "event_type": "another AI-related event",
+        "event_description": "The US government introduced the 'Algorithmic Accountability Act' requiring companies to assess machine learning systems for bias.",
+        "impact_score": 4,
+        "outcome_classification": "regulatory change",
+        "significance_today": "This act is part of a broader movement towards ensuring fairness and transparency in AI systems, influencing policies and practices in the tech industry."
+    },
+    {
+        "file_name": "AI_Article",
+        "date": "2019-01-01",
+        "event_type": "another AI-related event",
+        "event_description": "DARPA invested $2 billion in an Explainable Artificial Intelligence (XAI) program.",
+        "impact_score": 5,
+        "outcome_classification": "funding boost",
+        "significance_today": "The investment underscores the importance of explainability in AI, driving research and development in this critical area."
+    },
+    {
+        "file_name": "AI_Article",
+        "date": "2021-01-01",
+        "event_type": "another AI-related event",
+        "event_description": "Network intrusions are estimated to cost around $6 trillion annually in damages.",
+        "impact_score": 5,
+        "outcome_classification": "societal impact",
+        "significance_today": "The scale of financial losses due to cybercrime emphasizes the need for advanced AI-based security solutions."
+    },
+    {
+        "file_name": "Technology in Society, Vol. 74, 2023",
+        "date": "1956-07-01",
+        "event_type": "another AI-related event",
+        "event_description": "The Dartmouth University conference where the term 'Artificial Intelligence' was first coined.",
+        "impact_score": 5,
+        "outcome_classification": "breakthrough technology",
+        "significance_today": "The Dartmouth conference is considered the birth of AI as a field, leading to decades of research and development that have shaped modern AI technologies."
+    },
+    {
+        "file_name": "Technology in Society, Vol. 74, 2023",
+        "date": "1972-01-01",
+        "event_type": "AI Spring",
+        "event_description": "Over half of all research fields were related to AI.",
+        "impact_score": 4,
+        "outcome_classification": "funding boost",
+        "significance_today": "This period marked significant growth in AI research, laying the groundwork for future advancements and interdisciplinary applications."
+    },
+    {
+        "file_name": "Technology in Society, Vol. 74, 2023",
+        "date": "1986-01-01",
+        "event_type": "AI Spring",
+        "event_description": "Over 80% of research fields had publications related to AI.",
+        "impact_score": 4,
+        "outcome_classification": "funding boost",
+        "significance_today": "This surge indicated widespread acceptance and integration of AI across various fields, influencing current research trends."
+    },
+    {
+        "file_name": "Technology in Society, Vol. 74, 2023",
+        "date": "1974-01-01",
+        "event_type": "AI Winter",
+        "event_description": "The first AI winter began due to reduced funding and interest as AI failed to meet inflated expectations.",
+        "impact_score": 3,
+        "outcome_classification": "regulatory change",
+        "significance_today": "This downturn serves as a cautionary tale regarding the sustainability of AI hype and the importance of realistic expectations."
+    },
+    {
+        "file_name": "Technology in Society, Vol. 74, 2023",
+        "date": "1987-01-01",
+        "event_type": "AI Winter",
+        "event_description": "The second AI winter began, reflecting another decline in funding and interest in AI research.",
+        "impact_score": 3,
+        "outcome_classification": "regulatory change",
+        "significance_today": "The lessons learned from this period continue to influence funding strategies and research directions in AI today."
+    },
+    {
+        "file_name": "Adaptive Motion Gaming AI for Health Promotion",
+        "date": "2017-03-27",
+        "event_type": "another AI-related event",
+        "event_description": "Presentation of the paper at the 2017 AAAI Spring Symposium Series, focusing on health promotion through AI in gaming.",
+        "impact_score": 3,
+        "outcome_classification": "breakthrough technology",
+        "significance_today": "The event highlights the integration of AI in health-related applications, which has become increasingly relevant in the context of AI's role in promoting physical activity and health."
+    },
+    {
+        "file_name": "Adaptive Motion Gaming AI for Health Promotion",
+        "date": "2016-10-01",
+        "event_type": "another AI-related event",
+        "event_description": "The winner AI in the FightingICE competition was a Monte-Carlo tree search (MCTS)-based AI.",
+        "impact_score": 4,
+        "outcome_classification": "breakthrough technology",
+        "significance_today": "This event signifies the effectiveness of MCTS in competitive AI applications, influencing current AI strategies in gaming and beyond."
+    },
+    {
+        "file_name": "Adaptive Motion Gaming AI for Health Promotion",
+        "date": "2014-01-01",
+        "event_type": "another AI-related event",
+        "event_description": "Annual AI competition using FightingICE started, organized by IEEE Conference on Computational Intelligence and Games.",
+        "impact_score": 3,
+        "outcome_classification": "public perception shift",
+        "significance_today": "The establishment of this competition has fostered interest and development in AI for gaming, shaping how AI is perceived in entertainment and health contexts."
+    }
+]

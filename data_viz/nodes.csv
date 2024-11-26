@@ -1,0 +1,114 @@
+Id,Label,Category,Influence Score
+U.S. Department of the Treasury,U.S. Department of the Treasury,Institutional Actant,5
+Machine Learning Systems,Machine Learning Systems,Technological Actant,5
+Wally Adeyemo,Wally Adeyemo,Human Actant,3
+Federal Agencies,Federal Agencies,Institutional Actant,4
+Government Accountability Office (GAO),Government Accountability Office (GAO),Institutional Actant,4
+Fraudulent Payments,Fraudulent Payments,Economic Actant,5
+Data Analytics Tools,Data Analytics Tools,Technological Actant,4
+Payment Integrity Tools,Payment Integrity Tools,Technological Actant,4
+Do Not Pay Database,Do Not Pay Database,Technological Actant,3
+Fraud Detection Models,Fraud Detection Models,Technological Actant,4
+Doomsday Clock,Doomsday Clock,Technological Actant,4
+AI Safety Clock,AI Safety Clock,Technological Actant,3
+Michael Wade,Michael Wade,Human Actant,3
+IMD Business School,IMD Business School,Institutional Actant,3
+Bulletin of the Atomic Scientists,Bulletin of the Atomic Scientists,Institutional Actant,5
+TONOMUS,TONOMUS,Institutional Actant,4
+NEOM,NEOM,Institutional Actant,4
+Sam Altman,Sam Altman,Human Actant,3
+Edward J. Markey,Edward J. Markey,Institutional Actant,2
+Silicon Valley,Silicon Valley,Social and Cultural Actant,4
+Hingham High School,Hingham High School,Institutional Actant,4
+Dale and Jennifer Harris,Dale and Jennifer Harris,Institutional Actant,3
+Hingham Public Schools,Hingham Public Schools,Institutional Actant,4
+Generative AI,Generative AI,Technological Actant,5
+Stanford University,Stanford University,Institutional Actant,3
+Massachusetts Department of Elementary and Secondary Education,Massachusetts Department of Elementary and Secondary Education,Institutional Actant,4
+Center for Democracy and Technology,Center for Democracy and Technology,Institutional Actant,3
+National Honor Society,National Honor Society,Institutional Actant,2
+U.S. Federal Government,U.S. Federal Government,Institutional Actant,5
+President Joe Biden,President Joe Biden,Human Actant,4
+Fedscoop,Fedscoop,Institutional Actant,3
+Department of Energy,Department of Energy,Institutional Actant,4
+Nuclear Regulatory Commission,Nuclear Regulatory Commission,Institutional Actant,3
+Export-Import Bank of the U.S.,Export-Import Bank of the U.S.,Institutional Actant,3
+Graphics Processing Unit (GPU),Graphics Processing Unit (GPU),Technological Actant,4
+AI Technology,AI Technology,Technological Actant,5
+Floppy Discs,Floppy Discs,Technological Actant,2
+Colin Powell,Colin Powell,Human Actant,2
+Data Hurdles,Data Hurdles,Social and Cultural Actant,5
+Bentley Hensel,Bentley Hensel,Human Actant,4
+Don Beyer,Don Beyer,Human Actant,5
+ChatGPT,ChatGPT,Technological Actant,5
+DonBot,DonBot,Technological Actant,4
+Character.ai,Character.ai,Institutional Actant,3
+Replika,Replika,Institutional Actant,3
+Federal Election Commission,Federal Election Commission,Institutional Actant,3
+Kamala Harris,Kamala Harris,Human Actant,2
+Virginia,Virginia,Geographical Actant,4
+Older Voters,Older Voters,Social and Cultural Actant,3
+Generative AI Regulations,Generative AI Regulations,Ethical and Regulatory Actant,4
+MediaTek Dimensity 9400,MediaTek Dimensity 9400,Technological Actant,5
+AI Assistants,AI Assistants,Technological Actant,4
+Qualcomm Snapdragon 8 Gen 3,Qualcomm Snapdragon 8 Gen 3,Technological Actant,4
+Google Gemini,Google Gemini,Technological Actant,3
+Apple Intelligence,Apple Intelligence,Technological Actant,3
+Taiwan,Taiwan,Geographical Actant,2
+U.S. Lawmakers,U.S. Lawmakers,Institutional Actant,3
+2025,2025,Temporal Actant,4
+Scarlett Johansson,Scarlett Johansson,Human Actant,5
+Kylie Jenner,Kylie Jenner,Human Actant,4
+Taylor Swift,Taylor Swift,Human Actant,4
+Tom Hanks,Tom Hanks,Human Actant,5
+OpenAI,OpenAI,Institutional Actant,4
+McAfee,McAfee,Institutional Actant,4
+Abhishek Karnik,Abhishek Karnik,Human Actant,3
+FTC,FTC,Institutional Actant,3
+Elon Musk,Elon Musk,Human Actant,4
+Social Media,Social Media,Social and Cultural Actant,4
+John Hopfield,John Hopfield,Human Actant,5
+Geoffrey Hinton,Geoffrey Hinton,Human Actant,5
+Nobel Prize,Nobel Prize,Institutional Actant,4
+California Governor Gavin Newsom,California Governor Gavin Newsom,Human Actant,3
+Generative AI Systems,Generative AI Systems,Technological Actant,5
+Boltzmann Machine,Boltzmann Machine,Technological Actant,4
+AI Safety Research,AI Safety Research,Ethical and Regulatory Actant,4
+Tech Companies,Tech Companies,Institutional Actant,4
+Douglas Rushkoff,Douglas Rushkoff,Human Actant,5
+AI,AI,Technological Actant,5
+Corporations,Corporations,Institutional Actant,4
+Internet,Internet,Technological Actant,4
+Program or Be Programmed,Program or Be Programmed,Technological Actant,3
+Twitter/X,Twitter/X,Technological Actant,4
+Gen-X Counterculture,Gen-X Counterculture,Social and Cultural Actant,3
+California Culture,California Culture,Social and Cultural Actant,3
+Meta,Meta,Institutional Actant,5
+Movie Gen,Movie Gen,Technological Actant,5
+Chris Cox,Chris Cox,Human Actant,4
+Microsoft,Microsoft,Institutional Actant,4
+RunwayML,RunwayML,Institutional Actant,3
+A24,A24,Institutional Actant,3
+Judi Dench,Judi Dench,Human Actant,2
+Awkwafina,Awkwafina,Human Actant,2
+Meta Ray-Ban smart glasses,Meta Ray-Ban smart glasses,Technological Actant,3
+AI-generated sound,AI-generated sound,Technological Actant,3
+30B parameter transformer model,30B parameter transformer model,Technological Actant,4
+13B parameter audio generator,13B parameter audio generator,Technological Actant,4
+AI development,AI development,Unknown,1
+Student,Student,Unknown,1
+academic integrity,academic integrity,Unknown,1
+school discipline related to AI use,school discipline related to AI use,Unknown,1
+unauthorized technology,unauthorized technology,Unknown,1
+executive order,executive order,Unknown,1
+workforce concerns,workforce concerns,Unknown,1
+federal agencies,federal agencies,Unknown,1
+non-consensual AI content,non-consensual AI content,Unknown,1
+AI scams,AI scams,Unknown,1
+crypto scams,crypto scams,Unknown,1
+deepfake videos and images,deepfake videos and images,Unknown,1
+Artificial Neural Networks,Artificial Neural Networks,Unknown,1
+John Hopfield's Work,John Hopfield's Work,Unknown,1
+John Hopfield and Geoffrey Hinton,John Hopfield and Geoffrey Hinton,Unknown,1
+AI Liability Bill,AI Liability Bill,Unknown,1
+humans,humans,Unknown,1

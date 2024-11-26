@@ -1,0 +1,75 @@
+Source,Target,Relationship
+U.S. Department of the Treasury,Machine Learning Systems,uses
+U.S. Department of the Treasury,Federal Agencies,partners with
+U.S. Department of the Treasury,Government Accountability Office (GAO),receives recommendations from
+U.S. Department of the Treasury,Payment Integrity Tools,implements
+Machine Learning Systems,Fraudulent Payments,detects
+Federal Agencies,Do Not Pay Database,shares information with
+Data Analytics Tools,Fraud Detection Models,improves
+Michael Wade,AI Safety Clock,creates
+IMD Business School,Michael Wade,hosts
+Bulletin of the Atomic Scientists,Doomsday Clock,manages
+TONOMUS,Michael Wade,funds
+NEOM,TONOMUS,supports
+Sam Altman,AI development,compares
+Edward J. Markey,AI development,compares
+Silicon Valley,AI development,promotes
+Hingham High School,Student,disciplines
+Dale and Jennifer Harris,Hingham Public Schools,sue
+Hingham Public Schools,unauthorized technology,claims to have prohibited
+Generative AI,academic integrity,poses threat to
+Massachusetts Department of Elementary and Secondary Education,Generative AI,has not issued guidance on
+Center for Democracy and Technology,school discipline related to AI use,conducts survey on
+U.S. Federal Government,AI Technology,struggles with
+President Joe Biden,executive order,signs
+Fedscoop,federal agencies,analyzes
+Department of Energy,Graphics Processing Unit (GPU),complains about
+Nuclear Regulatory Commission,workforce concerns,reports on
+Export-Import Bank of the U.S.,AI Technology,competes for funding with
+AI Technology,Data Hurdles,requires
+AI Technology,deepfake videos and images,creates
+Bentley Hensel,DonBot,uses
+Don Beyer,Kamala Harris,endorses
+Don Beyer,Generative AI Regulations,influences
+DonBot,ChatGPT,trained on
+DonBot,Federal Election Commission,trained using data from
+Character.ai,DonBot,provides technology for
+Replika,DonBot,provides technology for
+Older Voters,DonBot,influenced by
+MediaTek Dimensity 9400,AI Assistants,supports
+MediaTek Dimensity 9400,Qualcomm Snapdragon 8 Gen 3,competes with
+Google Gemini,AI Assistants,influences
+Apple Intelligence,AI Assistants,influences
+U.S. Lawmakers,MediaTek Dimensity 9400,governs
+2025,AI Assistants,predicts
+Scarlett Johansson,non-consensual AI content,advocates against
+Tom Hanks,AI scams,warns about misuse of likeness in
+OpenAI,Scarlett Johansson,attempts to use voice of
+McAfee,AI scams,tracks celebrity likenesses used in
+Abhishek Karnik,AI scams,comments on risks of
+Elon Musk,crypto scams,is frequently used in
+Elon Musk,Twitter/X,owns
+Social Media,AI scams,hosts
+John Hopfield,Artificial Neural Networks,develops
+Geoffrey Hinton,John Hopfield's Work,builds on
+Geoffrey Hinton,AI Safety Research,calls for
+Nobel Prize,John Hopfield and Geoffrey Hinton,awards
+California Governor Gavin Newsom,AI Liability Bill,vetoes
+Generative AI Systems,Artificial Neural Networks,evolves from
+Tech Companies,California Governor Gavin Newsom,influence
+Douglas Rushkoff,Program or Be Programmed,writes
+AI,humans,influences
+Corporations,Internet,integrate with
+Gen-X Counterculture,Internet,influences
+California Culture,Internet,shapes
+Meta,Movie Gen,develops
+Meta,A24,collaborates with
+Meta,Judi Dench,in talks with
+Meta,Awkwafina,in talks with
+Movie Gen,OpenAI,competes with
+Movie Gen,Microsoft,competes with
+Movie Gen,RunwayML,competes with
+Movie Gen,AI-generated sound,uses
+Movie Gen,30B parameter transformer model,utilizes
+Movie Gen,13B parameter audio generator,utilizes
+Meta Ray-Ban smart glasses,Movie Gen,trains

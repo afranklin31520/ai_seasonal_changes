@@ -1,0 +1,628 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d1" for="node" attr.name="influence_score" attr.type="long"/>
+<key id="d0" for="node" attr.name="category" attr.type="string"/>
+<graph edgedefault="directed"><node id="U.S. Department of the Treasury">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Machine Learning Systems">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Wally Adeyemo">
+  <data key="d0">Human Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Federal Agencies">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Government Accountability Office (GAO)">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Fraudulent Payments">
+  <data key="d0">Economic Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Data Analytics Tools">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Payment Integrity Tools">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Do Not Pay Database">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Fraud Detection Models">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Doomsday Clock">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="AI Safety Clock">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Michael Wade">
+  <data key="d0">Human Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="IMD Business School">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Bulletin of the Atomic Scientists">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="TONOMUS">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="NEOM">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Sam Altman">
+  <data key="d0">Human Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Edward J. Markey">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">2</data>
+</node>
+<node id="Silicon Valley">
+  <data key="d0">Social and Cultural Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Hingham High School">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Dale and Jennifer Harris">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Hingham Public Schools">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Generative AI">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Stanford University">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Massachusetts Department of Elementary and Secondary Education">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Center for Democracy and Technology">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="National Honor Society">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">2</data>
+</node>
+<node id="U.S. Federal Government">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="President Joe Biden">
+  <data key="d0">Human Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Fedscoop">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Department of Energy">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Nuclear Regulatory Commission">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Export-Import Bank of the U.S.">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Graphics Processing Unit (GPU)">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="AI Technology">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Floppy Discs">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">2</data>
+</node>
+<node id="Colin Powell">
+  <data key="d0">Human Actant</data>
+  <data key="d1">2</data>
+</node>
+<node id="Data Hurdles">
+  <data key="d0">Social and Cultural Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Bentley Hensel">
+  <data key="d0">Human Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Don Beyer">
+  <data key="d0">Human Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="ChatGPT">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="DonBot">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Character.ai">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Replika">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Federal Election Commission">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Kamala Harris">
+  <data key="d0">Human Actant</data>
+  <data key="d1">2</data>
+</node>
+<node id="Virginia">
+  <data key="d0">Geographical Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Older Voters">
+  <data key="d0">Social and Cultural Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Generative AI Regulations">
+  <data key="d0">Ethical and Regulatory Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="MediaTek Dimensity 9400">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="AI Assistants">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Qualcomm Snapdragon 8 Gen 3">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Google Gemini">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Apple Intelligence">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Taiwan">
+  <data key="d0">Geographical Actant</data>
+  <data key="d1">2</data>
+</node>
+<node id="U.S. Lawmakers">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="2025">
+  <data key="d0">Temporal Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Scarlett Johansson">
+  <data key="d0">Human Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Kylie Jenner">
+  <data key="d0">Human Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Taylor Swift">
+  <data key="d0">Human Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Tom Hanks">
+  <data key="d0">Human Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="OpenAI">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="McAfee">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Abhishek Karnik">
+  <data key="d0">Human Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="FTC">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Elon Musk">
+  <data key="d0">Human Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Social Media">
+  <data key="d0">Social and Cultural Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="John Hopfield">
+  <data key="d0">Human Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Geoffrey Hinton">
+  <data key="d0">Human Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Nobel Prize">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="California Governor Gavin Newsom">
+  <data key="d0">Human Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Generative AI Systems">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Boltzmann Machine">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="AI Safety Research">
+  <data key="d0">Ethical and Regulatory Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Tech Companies">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Douglas Rushkoff">
+  <data key="d0">Human Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="AI">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Corporations">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Internet">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Program or Be Programmed">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Twitter/X">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Gen-X Counterculture">
+  <data key="d0">Social and Cultural Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="California Culture">
+  <data key="d0">Social and Cultural Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Meta">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Movie Gen">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">5</data>
+</node>
+<node id="Chris Cox">
+  <data key="d0">Human Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="Microsoft">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="RunwayML">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="A24">
+  <data key="d0">Institutional Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="Judi Dench">
+  <data key="d0">Human Actant</data>
+  <data key="d1">2</data>
+</node>
+<node id="Awkwafina">
+  <data key="d0">Human Actant</data>
+  <data key="d1">2</data>
+</node>
+<node id="Meta Ray-Ban smart glasses">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="AI-generated sound">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">3</data>
+</node>
+<node id="30B parameter transformer model">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="13B parameter audio generator">
+  <data key="d0">Technological Actant</data>
+  <data key="d1">4</data>
+</node>
+<node id="AI development"/>
+<node id="Student"/>
+<node id="academic integrity"/>
+<node id="school discipline related to AI use"/>
+<node id="unauthorized technology"/>
+<node id="executive order"/>
+<node id="workforce concerns"/>
+<node id="federal agencies"/>
+<node id="non-consensual AI content"/>
+<node id="AI scams"/>
+<node id="crypto scams"/>
+<node id="deepfake videos and images"/>
+<node id="Artificial Neural Networks"/>
+<node id="John Hopfield's Work"/>
+<node id="John Hopfield and Geoffrey Hinton"/>
+<node id="AI Liability Bill"/>
+<node id="humans"/>
+<edge source="U.S. Department of the Treasury" target="Machine Learning Systems">
+  <data key="d2">uses</data>
+</edge>
+<edge source="U.S. Department of the Treasury" target="Federal Agencies">
+  <data key="d2">partners with</data>
+</edge>
+<edge source="U.S. Department of the Treasury" target="Government Accountability Office (GAO)">
+  <data key="d2">receives recommendations from</data>
+</edge>
+<edge source="U.S. Department of the Treasury" target="Payment Integrity Tools">
+  <data key="d2">implements</data>
+</edge>
+<edge source="Machine Learning Systems" target="Fraudulent Payments">
+  <data key="d2">detects</data>
+</edge>
+<edge source="Federal Agencies" target="Do Not Pay Database">
+  <data key="d2">shares information with</data>
+</edge>
+<edge source="Data Analytics Tools" target="Fraud Detection Models">
+  <data key="d2">improves</data>
+</edge>
+<edge source="Michael Wade" target="AI Safety Clock">
+  <data key="d2">creates</data>
+</edge>
+<edge source="IMD Business School" target="Michael Wade">
+  <data key="d2">hosts</data>
+</edge>
+<edge source="Bulletin of the Atomic Scientists" target="Doomsday Clock">
+  <data key="d2">manages</data>
+</edge>
+<edge source="TONOMUS" target="Michael Wade">
+  <data key="d2">funds</data>
+</edge>
+<edge source="NEOM" target="TONOMUS">
+  <data key="d2">supports</data>
+</edge>
+<edge source="Sam Altman" target="AI development">
+  <data key="d2">compares</data>
+</edge>
+<edge source="Edward J. Markey" target="AI development">
+  <data key="d2">compares</data>
+</edge>
+<edge source="Silicon Valley" target="AI development">
+  <data key="d2">promotes</data>
+</edge>
+<edge source="Hingham High School" target="Student">
+  <data key="d2">disciplines</data>
+</edge>
+<edge source="Dale and Jennifer Harris" target="Hingham Public Schools">
+  <data key="d2">sue</data>
+</edge>
+<edge source="Hingham Public Schools" target="unauthorized technology">
+  <data key="d2">claims to have prohibited</data>
+</edge>
+<edge source="Generative AI" target="academic integrity">
+  <data key="d2">poses threat to</data>
+</edge>
+<edge source="Massachusetts Department of Elementary and Secondary Education" target="Generative AI">
+  <data key="d2">has not issued guidance on</data>
+</edge>
+<edge source="Center for Democracy and Technology" target="school discipline related to AI use">
+  <data key="d2">conducts survey on</data>
+</edge>
+<edge source="U.S. Federal Government" target="AI Technology">
+  <data key="d2">struggles with</data>
+</edge>
+<edge source="President Joe Biden" target="executive order">
+  <data key="d2">signs</data>
+</edge>
+<edge source="Fedscoop" target="federal agencies">
+  <data key="d2">analyzes</data>
+</edge>
+<edge source="Department of Energy" target="Graphics Processing Unit (GPU)">
+  <data key="d2">complains about</data>
+</edge>
+<edge source="Nuclear Regulatory Commission" target="workforce concerns">
+  <data key="d2">reports on</data>
+</edge>
+<edge source="Export-Import Bank of the U.S." target="AI Technology">
+  <data key="d2">competes for funding with</data>
+</edge>
+<edge source="AI Technology" target="Data Hurdles">
+  <data key="d2">requires</data>
+</edge>
+<edge source="AI Technology" target="deepfake videos and images">
+  <data key="d2">creates</data>
+</edge>
+<edge source="Bentley Hensel" target="DonBot">
+  <data key="d2">uses</data>
+</edge>
+<edge source="Don Beyer" target="Kamala Harris">
+  <data key="d2">endorses</data>
+</edge>
+<edge source="Don Beyer" target="Generative AI Regulations">
+  <data key="d2">influences</data>
+</edge>
+<edge source="DonBot" target="ChatGPT">
+  <data key="d2">trained on</data>
+</edge>
+<edge source="DonBot" target="Federal Election Commission">
+  <data key="d2">trained using data from</data>
+</edge>
+<edge source="Character.ai" target="DonBot">
+  <data key="d2">provides technology for</data>
+</edge>
+<edge source="Replika" target="DonBot">
+  <data key="d2">provides technology for</data>
+</edge>
+<edge source="Older Voters" target="DonBot">
+  <data key="d2">influenced by</data>
+</edge>
+<edge source="MediaTek Dimensity 9400" target="AI Assistants">
+  <data key="d2">supports</data>
+</edge>
+<edge source="MediaTek Dimensity 9400" target="Qualcomm Snapdragon 8 Gen 3">
+  <data key="d2">competes with</data>
+</edge>
+<edge source="Google Gemini" target="AI Assistants">
+  <data key="d2">influences</data>
+</edge>
+<edge source="Apple Intelligence" target="AI Assistants">
+  <data key="d2">influences</data>
+</edge>
+<edge source="U.S. Lawmakers" target="MediaTek Dimensity 9400">
+  <data key="d2">governs</data>
+</edge>
+<edge source="2025" target="AI Assistants">
+  <data key="d2">predicts</data>
+</edge>
+<edge source="Scarlett Johansson" target="non-consensual AI content">
+  <data key="d2">advocates against</data>
+</edge>
+<edge source="Tom Hanks" target="AI scams">
+  <data key="d2">warns about misuse of likeness in</data>
+</edge>
+<edge source="OpenAI" target="Scarlett Johansson">
+  <data key="d2">attempts to use voice of</data>
+</edge>
+<edge source="McAfee" target="AI scams">
+  <data key="d2">tracks celebrity likenesses used in</data>
+</edge>
+<edge source="Abhishek Karnik" target="AI scams">
+  <data key="d2">comments on risks of</data>
+</edge>
+<edge source="Elon Musk" target="crypto scams">
+  <data key="d2">is frequently used in</data>
+</edge>
+<edge source="Elon Musk" target="Twitter/X">
+  <data key="d2">owns</data>
+</edge>
+<edge source="Social Media" target="AI scams">
+  <data key="d2">hosts</data>
+</edge>
+<edge source="John Hopfield" target="Artificial Neural Networks">
+  <data key="d2">develops</data>
+</edge>
+<edge source="Geoffrey Hinton" target="John Hopfield's Work">
+  <data key="d2">builds on</data>
+</edge>
+<edge source="Geoffrey Hinton" target="AI Safety Research">
+  <data key="d2">calls for</data>
+</edge>
+<edge source="Nobel Prize" target="John Hopfield and Geoffrey Hinton">
+  <data key="d2">awards</data>
+</edge>
+<edge source="California Governor Gavin Newsom" target="AI Liability Bill">
+  <data key="d2">vetoes</data>
+</edge>
+<edge source="Generative AI Systems" target="Artificial Neural Networks">
+  <data key="d2">evolves from</data>
+</edge>
+<edge source="Tech Companies" target="California Governor Gavin Newsom">
+  <data key="d2">influence</data>
+</edge>
+<edge source="Douglas Rushkoff" target="Program or Be Programmed">
+  <data key="d2">writes</data>
+</edge>
+<edge source="AI" target="humans">
+  <data key="d2">influences</data>
+</edge>
+<edge source="Corporations" target="Internet">
+  <data key="d2">integrate with</data>
+</edge>
+<edge source="Gen-X Counterculture" target="Internet">
+  <data key="d2">influences</data>
+</edge>
+<edge source="California Culture" target="Internet">
+  <data key="d2">shapes</data>
+</edge>
+<edge source="Meta" target="Movie Gen">
+  <data key="d2">develops</data>
+</edge>
+<edge source="Meta" target="A24">
+  <data key="d2">collaborates with</data>
+</edge>
+<edge source="Meta" target="Judi Dench">
+  <data key="d2">in talks with</data>
+</edge>
+<edge source="Meta" target="Awkwafina">
+  <data key="d2">in talks with</data>
+</edge>
+<edge source="Movie Gen" target="OpenAI">
+  <data key="d2">competes with</data>
+</edge>
+<edge source="Movie Gen" target="Microsoft">
+  <data key="d2">competes with</data>
+</edge>
+<edge source="Movie Gen" target="RunwayML">
+  <data key="d2">competes with</data>
+</edge>
+<edge source="Movie Gen" target="AI-generated sound">
+  <data key="d2">uses</data>
+</edge>
+<edge source="Movie Gen" target="30B parameter transformer model">
+  <data key="d2">utilizes</data>
+</edge>
+<edge source="Movie Gen" target="13B parameter audio generator">
+  <data key="d2">utilizes</data>
+</edge>
+<edge source="Meta Ray-Ban smart glasses" target="Movie Gen">
+  <data key="d2">trains</data>
+</edge>
+</graph></graphml>
